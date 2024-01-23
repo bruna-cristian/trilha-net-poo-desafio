@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6A00HRd+tSyQwfuYr8ewJqbAwDYhn2UQqA1WQCwcne68cKRzL0mokRh9lPxlMONDpCvtIR06W66wQWrVOIzZ+w==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\trilha-net-poo-desafio-main\\DesafioPOO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Suporte\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Suporte\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Suporte\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Suporte\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
